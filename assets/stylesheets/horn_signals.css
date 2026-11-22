@@ -1,0 +1,6 @@
+.horn-signal{display:inline-flex;flex-direction:column;vertical-align:middle;min-width:12em;max-width:28em;width:100%;margin:.2em 0}
+.horn-signal-bars{display:flex;height:.9em;align-items:center}
+.horn-signal-on{display:inline-block;height:.7em;background:#b3261e;border-radius:3px}
+.horn-signal-off{display:inline-block;height:.7em}
+.horn-signal-caption{font-size:.85em;color:#666}
+.horn-onset,.horn-level{font-weight:600}
